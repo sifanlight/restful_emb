@@ -1,0 +1,3 @@
+/home/sinlap/httpserver/httpClientSync/CMakeFiles/rebuild_cache.dir
+/home/sinlap/httpserver/httpClientSync/CMakeFiles/Rest.dir
+/home/sinlap/httpserver/httpClientSync/CMakeFiles/edit_cache.dir

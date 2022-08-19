@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sinlap/httpserver/httpClientSync/src/httpClient.cpp
+boost/beast/core.hpp
+-
+boost/beast/http.hpp
+-
+boost/beast/version.hpp
+-
+boost/asio/connect.hpp
+-
+boost/asio/ip/tcp.hpp
+-
+boost/beast/http/message.hpp
+-
+cstdlib
+-
+iostream
+-
+fstream
+-
+string
+-
+

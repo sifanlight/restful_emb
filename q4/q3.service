@@ -1,0 +1,13 @@
+[Unit]
+Description = question number three service
+After=multi-user.target
+
+[Service]
+Type=simple
+EnvironmentFile=/etc/.argconf
+ExecStart=/home/sinlap/embProject/q3/httpServerFast/bin/restServer $ARG1 $ARG2 $ARG3 $ARG4 $ARG5
+StandardOutput=journal+console
+StandardError=journal+console
+Restart=always
+[Install]
+WantedBy= multi-user.target

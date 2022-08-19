@@ -1,0 +1,3 @@
+/home/sinlap/embProject/facewithdata/q2/CMakeFiles/rebuild_cache.dir
+/home/sinlap/embProject/facewithdata/q2/CMakeFiles/webcam.dir
+/home/sinlap/embProject/facewithdata/q2/CMakeFiles/edit_cache.dir

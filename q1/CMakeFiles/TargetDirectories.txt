@@ -1,0 +1,3 @@
+/home/sinlap/embProject/bruh/q1/CMakeFiles/rebuild_cache.dir
+/home/sinlap/embProject/bruh/q1/CMakeFiles/webcam.dir
+/home/sinlap/embProject/bruh/q1/CMakeFiles/edit_cache.dir

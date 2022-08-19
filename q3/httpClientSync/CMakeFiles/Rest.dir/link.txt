@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11  -rdynamic CMakeFiles/Rest.dir/src/httpClient.cpp.o  -o bin/Rest -lpthread 

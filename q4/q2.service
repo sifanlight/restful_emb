@@ -1,0 +1,12 @@
+[Unit]
+Description = question number two service
+After=multi-user.target
+
+[Service]
+Type=simple
+ExecStart=/home/sinlap/embProject/q2/bin/webcam
+StandardOutput=journal+console
+StandardError=journal+console
+Restart=always
+[Install]
+WantedBy= multi-user.target
